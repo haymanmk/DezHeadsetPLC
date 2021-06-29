@@ -14,7 +14,7 @@
 			<Child>
 				<value.first>[1]  KV-NC1EP    R1000   DM10000</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>[1]  AZD-KEP</value.first>
 						<value.second>
