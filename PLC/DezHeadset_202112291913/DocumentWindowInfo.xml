@@ -151,7 +151,7 @@
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
             <TabIndex>3</TabIndex>
-            <IsTabSelected>true</IsTabSelected>
+            <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
         </DockingInfo>
